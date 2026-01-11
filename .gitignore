@@ -1,0 +1,7 @@
+.vs
+bin/
+x64/
+*.aps
+Releases/
+*.7z
+IntermediateFiles/
